@@ -1,0 +1,20 @@
+PODS:
+  - Magnet (3.3.0):
+    - Sauce (~> 2.2.0)
+  - Sauce (2.2.0)
+
+DEPENDENCIES:
+  - Magnet
+
+SPEC REPOS:
+  trunk:
+    - Magnet
+    - Sauce
+
+SPEC CHECKSUMS:
+  Magnet: a44a5a14eecc77433cbaad1431b78f7d20725bf2
+  Sauce: 3ade51738563f86b08888cf4b91ae5943012088b
+
+PODFILE CHECKSUM: d1abb70cd60bf276ba1cbe41ebc5c093f8deb5a3
+
+COCOAPODS: 1.12.1
